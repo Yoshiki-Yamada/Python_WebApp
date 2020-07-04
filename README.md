@@ -8,5 +8,5 @@ PythonとDjangoを使ったWebAppの作成をする
 
 ## Python x Djangoのまとめ
 
-[#01 StartUp!](a)  
+[#01 StartUp!](https://github.com/Yoshiki-Yamada/Python_WebApp/blob/master/README/%2301/StartUp.md)  
 [#02 coming soon...]()  
