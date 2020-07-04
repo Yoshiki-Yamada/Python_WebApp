@@ -1,0 +1,10 @@
+
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/python_django.iml
+.idea/vcs.xml
+db.sqlite3
+manage.py
+templates/
+venv/
