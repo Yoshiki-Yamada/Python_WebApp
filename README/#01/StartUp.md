@@ -46,6 +46,8 @@ urlpatterns = [
 
 ### 実行する
 
-[]()にアクセスしてみると404が出ました。これはurlの参照先を変更したからです。
+[http://127.0.0.1:8000/](http://127.0.0.1:8000/) にアクセスしてみると404が出ました。これはurlの参照先を変更したからです。  
+![image](https://github.com/Yoshiki-Yamada/Python_WebApp/blob/master/README/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-07-04%2016.54.26.png)  
 
-では、[]()にアクセスしてみましょう。下のような画面が出ればOKです！
+では、[http://127.0.0.1:8000/polls/](http://127.0.0.1:8000/polls/) にアクセスしてみましょう。下のような画面が出ればOKです！  
+![image](https://github.com/Yoshiki-Yamada/Python_WebApp/blob/master/README/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-07-04%2016.55.16.png)  
