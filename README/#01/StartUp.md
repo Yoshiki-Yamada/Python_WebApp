@@ -6,9 +6,9 @@
 ## Let's Begin!
 
 ### pycharmでpollsを作成する
-pollsとは、なんかいろいろ入ってるwebを作成するためのディレクトリです。バーのTools->Run manage.py Task...というように押していく。
+`polls`とは、なんかいろいろ入ってるwebappを作成するためのディレクトリです。バーの`Tools`->`Run manage.py Task...`というように押していく。
 
-すると、したにmanage.py@project_nameが現れる。このproject_nameはpython_djangoなので以下からpython_djangoで書いていきます。そこにstartapp pollsと入力してエンターするとpollsディレクトリができる。その中にはたくさんの希望が入っているはずです。
+すると、したに`manage.py@project_name`が現れる。この`project_name`は`python_django`なので以下から`python_django`で書いていきます。そこに`startapp polls`と入力してエンターすると`polls`ディレクトリができる。その中にはたくさんの`希望`が入っているはずです。
 
 ### codeを書いていく
 
